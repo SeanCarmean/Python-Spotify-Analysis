@@ -6,4 +6,4 @@ This was my last case study in my **CareerFoundry** course and was an explorator
 1. Open sourcing the data
 2. Combining data with a .shp file for a more in-depth geographic analysis
 3. Performing regression analysis and applying machine learning
-4. Creating a [Tableau](https://public.tableau.com/app/profile/sean.carmean/viz/SpotifyDataAnalysis_16286423540320/Story1) storyboard with all analysis.
+4. Creating a [Tableau](https://public.tableau.com/app/profile/sean.carmean/viz/SpotifyDataAnalysis_16286423540320/Story1) storyboard with all analysis
