@@ -4,6 +4,6 @@ Analyzing *Spotify* top 200 songs per week from 2017-2018 across 53 countries. T
 
 This was my last case study in my **CareerFoundry** course and was an exploratory analysis. Some actions taken included:
 1. Open sourcing the data
-2. Combining data with a [.shp](https://gadm.org/download_world.html) file for a more in-depth geographic analysis
+2. Combining data with a [.shp](https://tapiquen-sig.jimdofree.com/english-version/free-downloads/world/) file for a more in-depth geographic analysis
 3. Performing regression analysis and applying machine learning
 4. Creating a [Tableau](https://public.tableau.com/app/profile/sean.carmean/viz/SpotifyDataAnalysis_16286423540320/Story1) storyboard with all analysis
